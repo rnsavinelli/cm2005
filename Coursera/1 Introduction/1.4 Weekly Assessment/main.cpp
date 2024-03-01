@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main(void) {
-    std::cout << ":: Merkelrex" << std::endl;
+    std::cout << ":: Merklerex" << std::endl;
 
     while(true) {
         std::cout << std::endl;

@@ -1,1 +1,1 @@
-g++ main.cpp -o merkelrex
+g++ main.cpp -o merklerex
